@@ -1,0 +1,8 @@
+Galizkij_prepositions:1688478112.1
+LongmanUP_Nouns+Adjectives+Adverbs:1688478112.1
+LongmanUP_Future-times:1688564512.1
+LongmanUP_Modal_verbs:1688650912.1
+LongmanUP_Gerund:1688823712.1
+LongmanUP_Reported_Speech:1688910112.1
+Sentence_Str_51-52:1689075558.377723
+Future_times:1705438429.1
